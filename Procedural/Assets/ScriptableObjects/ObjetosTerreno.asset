@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d523526a343538469eff5b0b510b8d6, type: 3}
+  m_Name: ObjetosTerreno
+  m_EditorClassIdentifier: 
+  bosque:
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: 3539e726535e12849bfdfa5694748d5e, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ecdb9adcc8a43c7418edd56e4ee3f084, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: b8171df6abb9c0a459847bf6ac008b80, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: 59cb17885bad6f74291a77d0ab7b6d8e, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: b60983b80443edf49a00d619e0baa454, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: 357e520af6149ab40a4aae706fe02c77, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  desierto: []
+  infierno: []
+  m_ObjecteThreshold: 1
+  m_BiomesScale: 1000
+  m_BiomesFrequency: 10
+  m_BiomaThreshold: 1
+  m_Objectes:
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: 3539e726535e12849bfdfa5694748d5e, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ecdb9adcc8a43c7418edd56e4ee3f084, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: b8171df6abb9c0a459847bf6ac008b80, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: 59cb17885bad6f74291a77d0ab7b6d8e, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: b60983b80443edf49a00d619e0baa454, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: 357e520af6149ab40a4aae706fe02c77, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
+  - {fileID: 11400000, guid: ae5e6475553c0fa43b97c73a0ec47831, type: 2}
